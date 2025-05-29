@@ -1,0 +1,460 @@
+/* css/style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 0.8rem 1rem; /* Adjusted padding */
+    text-align: center;
+    display: flex;
+    /* justify-content: space-between; */ /* Remove to allow button on left, title center, search on right */
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1001;
+}
+
+header h1 {
+    margin: 0 auto; /* Auto margins for centering with flexbox */
+    font-size: 1.6rem; /* Slightly reduced for better fit */
+    /* flex-grow: 1; */ /* Allow h1 to take space but centered */
+    text-align: center; /* Ensure text is centered if h1 has width */
+}
+
+.search-container {
+    position: relative;
+    margin-left: auto; /* Push search to the right */
+    display: flex; /* Added for button alignment */
+    align-items: center; /* Added for button alignment */
+}
+
+#searchInput {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px; /* Adjusted for button */
+    font-size: 1rem;
+    border-right: none; /* Remove right border for seamless button connection */
+    height: 2.25rem; /* Explicit height */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+#searchButton {
+    padding: 0.5rem 0.75rem; /* Adjust padding for SVG */
+    border: 1px solid #ccc;
+    background-color: #f0f0f0; /* Flat background */
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    margin-left: -1px; /* Overlap border with input */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: none; /* Ensure seamless connection */
+    height: 2.25rem; /* Explicit height to match input */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+#searchButton:hover {
+    background-color: #e0e0e0;
+}
+
+#searchButton svg { /* Style for SVG within button */
+    width: 1em; /* Control SVG size */
+    height: 1em;
+}
+
+#searchResults {
+    position: absolute;
+    top: 100%; /* Position below the search container */
+    left: 0; /* Align with the left of search-container */
+    background-color: #fff;
+    border: 1px solid #ddd;
+    /* border-top: none; */ /* Can keep top border for separation */
+    max-height: 200px;
+    overflow-y: auto;
+    width: 100%; /* Make it full width of search-container */
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    color: #333; /* Text color for search results */
+    box-sizing: border-box; /* Ensure padding/border don't make it wider than container */
+}
+
+#searchResults div {
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+#searchResults div:hover {
+    background-color: #f0f0f0;
+}
+
+/* Updated #menuToggleBtn styles */
+#menuToggleBtn {
+    background: transparent; /* Make background transparent */
+    border: none;
+    color: #fff;
+    font-size: 1.5rem; /* Adjusted size for an icon-like button */
+    cursor: pointer;
+    padding: 0.5rem 0.8rem; /* Adjusted padding */
+    border-radius: 4px;
+    /* position: fixed; */ /* No longer fixed, it's part of the header flow */
+    /* top: 90px; */
+    /* left: 10px; */
+    z-index: 1002;
+    /* transition: left 0.3s ease; */ /* No longer needed for left transition */
+    margin-right: 10px; /* Add some space between button and title */
+}
+
+
+.sidebar {
+    background-color: #444;
+    color: #fff;
+    padding-top: 10px; /* Reduced padding-top as button is in header */
+    width: 250px;
+    transition: transform 0.3s ease;
+    position: fixed;
+    left: 0;
+    top: 56px; /* Adjusted to be below the new header height (approx 0.8rem*2 + 1.5rem font) */
+    bottom: 0;
+    z-index: 1000;
+    overflow-y: auto;
+    transform: translateX(-100%);
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
+.sidebar.open {
+    transform: translateX(0);
+}
+
+/* Remove .sidebar.open + #menuToggleBtn as button position is static now */
+#menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#menu ul li {
+    padding: 0; /* Remove default padding */
+}
+
+#menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 0.8rem 1.5rem; /* Consistent padding */
+    border-radius: 0; /* Flat look */
+    transition: background-color 0.2s ease;
+}
+
+#menu ul li a:hover, #menu ul li a.active {
+    background-color: #555;
+}
+
+#menu .submenu {
+    padding-left: 1.5rem; /* Indent submenu items */
+    background-color: #3a3a3a; /* Slightly different background for submenu */
+}
+#menu .submenu a {
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    font-size: 0.9rem;
+}
+
+
+main {
+    flex-grow: 1;
+    display: flex;
+    padding-left: 10px;
+    margin-top: 56px; /* Adjusted to be below the new header height */
+    transition: padding-left 0.3s ease;
+    overflow-x: hidden;
+}
+
+.sidebar.open ~ main {
+    padding-left: 260px; /* Width of the sidebar + small gap */
+}
+
+
+.map-container {
+    flex: 3; /* Adjusted flex ratio */
+    position: relative;
+    overflow: hidden;
+    background-color: #e9e9e9; /* Light grey background for map area */
+    margin: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    height: calc(100vh - 70px - 2rem); /* Full height minus header and margins */
+}
+
+#floorplan {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transform-origin: center center; 
+    cursor: grab; /* For pannable map */
+}
+
+.room-marker {
+    position: absolute;
+    border-radius: 50%;
+    cursor: pointer;
+    /* transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out, width 0.2s ease-in-out, height 0.2s ease-in-out; */
+    /* Let JS handle size transitions if needed, or simplify CSS transitions */
+    transition: box-shadow 0.2s ease-in-out; /* Only transition box-shadow for hover/select */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    box-shadow: 0 0 3px rgba(0,0,0,0.4);
+    border: 1px solid rgba(255,255,255,0.5); /* Subtle border */
+    /* transform-origin: center center; */ /* Not strictly needed if JS sets left/top correctly */
+}
+
+.room-marker:hover {
+    /* transform: scale(1.8); */ /* JS handles scale now, hover effect might be different */
+    box-shadow: 0 0 8px rgba(0,0,0,0.6);
+    z-index: 10;
+}
+
+.room-marker.selected {
+    /* transform: scale(2.2); */ /* JS handles scale now */
+    box-shadow: 0 0 12px rgba(0,0,0,0.8), 0 0 0 2px white, 0 0 0 4px currentColor; /* Keep enhanced shadow */
+    z-index: 11;
+}
+
+
+.info-panel {
+    flex: 2; /* Adjusted flex ratio */
+    padding: 1.5rem; /* Increased padding */
+    background-color: #fff;
+    margin: 1rem 1rem 1rem 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    overflow-y: auto;
+    height: calc(100vh - 70px - 2rem); /* Full height minus header and margins */
+}
+
+.info-panel h2 {
+    margin-top: 0;
+    color: #333;
+    border-bottom: 2px solid #eee; /* Separator line */
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.info-panel p, .info-panel ul {
+    line-height: 1.7; /* Improved readability */
+    margin-bottom: 1rem;
+}
+
+.info-panel strong {
+    color: #555;
+}
+
+.info-panel ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.info-panel ul li {
+    margin-bottom: 0.5rem;
+    padding: 0.3rem 0;
+    border-bottom: 1px dashed #eee; /* Light separator for list items */
+}
+.info-panel ul li:last-child {
+    border-bottom: none;
+}
+
+
+#roomImages {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Responsive grid for images */
+    gap: 10px;
+}
+
+#roomImages img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    object-fit: cover; /* Ensure images cover their area well */
+    transition: transform 0.2s ease;
+}
+#roomImages img:hover {
+    transform: scale(1.05);
+    cursor: pointer; /* Add cursor pointer for clickable images */
+}
+
+
+/* Modal styles */
+/* Ensure modal styles are present for image enlargement */
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1003; /* Higher than header */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto; 
+    background-color: rgba(0,0,0,0.8); 
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    max-width: 80%;
+    max-height: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.close-modal {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.close-modal:hover,
+.close-modal:focus {
+    color: #bbb;
+    text-decoration: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) { /* Adjusted breakpoint for better tablet handling */
+    main {
+        flex-direction: column;
+        padding-left: 10px; /* Reset padding for stacked layout */
+    }
+    .sidebar.open ~ main {
+        padding-left: 10px; /* Sidebar will overlay or be managed differently */
+    }
+
+    .map-container {
+        height: 60vh; /* Adjust height for map on smaller screens */
+        margin-bottom: 1rem;
+    }
+    .info-panel {
+        flex: 1; /* Allow info panel to take remaining space */
+        max-height: none;
+        height: auto; /* Adjust height */
+        margin-top: 0;
+    }
+}
+
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: row; /* Keep as row */
+        align-items: center; /* Align items vertically */
+        padding: 0.5rem 0.8rem; /* Adjust padding */
+    }
+    header h1 {
+        font-size: 1.1rem; /* Further reduce for small screens */
+        margin: 0 auto; /* Center title */
+    }
+
+    .search-container {
+        /* width: 100%; */ /* No longer full width, allow button and title */
+        margin-left: auto; /* Push to right */
+    }
+
+    #searchInput {
+        width: 80px; /* Adjust as needed, or use flex properties */
+        font-size: 0.8rem;
+    }
+    
+    #menuToggleBtn {
+        /* top: 110px; */ /* No longer needed */
+        /* left: 5px; */   /* No longer needed */
+        padding: 0.4rem 0.6rem;
+        font-size: 1.3rem;
+        margin-right: 5px;
+    }
+    /* Remove .sidebar.open + #menuToggleBtn for mobile as well */
+
+
+    .sidebar {
+        width: 200px;
+        padding-top: 5px; /* Adjust if header height changed */
+        top: 48px; /* Adjust if header height changed for mobile */
+    }
+
+    main {
+        margin-top: 48px; /* Adjust if header height changed for mobile */
+    }
+
+    .map-container,
+    .info-panel {
+        height: calc(100vh - 48px - 2rem); /* Adjust based on new mobile header height */
+        margin: 0.5rem;
+    }
+    .map-container {
+        margin-bottom: 0.5rem;
+    }
+
+}
+
+/* Map Controls */
+.map-controls {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    z-index: 10; /* Ensure controls are above the map image */
+}
+
+.map-controls button {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    border: 1px solid rgba(0, 0, 0, 0.2); /* Subtle border */
+    border-radius: 4px;
+    padding: 8px;
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.map-controls button:hover {
+    background-color: rgba(255, 255, 255, 0.95); /* Less transparent on hover */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+.map-controls button svg {
+    width: 16px;
+    height: 16px;
+    fill: #333; /* Icon color */
+}
+

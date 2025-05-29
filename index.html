@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>济事楼 4 楼导览系统</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <button id="menuToggleBtn">☰</button> <!-- Moved button here -->
+            <h1>济事楼 4 楼导览系统</h1>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="搜索房间、用途或人员...">
+                <button id="searchButton" title="搜索"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg></button>
+                <div id="searchResults" style="display: none;"></div>
+            </div>
+        </header>
+
+        <aside class="sidebar">
+            <!-- <button id="sidebarCloseBtn">✕</button> --> <!-- Optional: if you want a close button inside sidebar -->
+            <nav id="menu">
+                <!-- 菜单项将由JavaScript动态生成 -->
+            </nav>
+        </aside>
+
+        <main>
+            <div class="map-container">
+                <img src="images/floorplan.png" alt="济事楼4楼平面图" id="floorplan">
+                <!-- 房间标记点将由JavaScript动态生成 -->
+                <div class="map-controls">
+                    <button id="zoomInBtn" title="放大">+</button>
+                    <button id="zoomOutBtn" title="缩小">-</button>
+                    <button id="resetZoomBtn" title="恢复默认">⟳</button>
+                </div>
+            </div>
+            <div class="info-panel">
+                <h2 id="roomName">欢迎使用导览系统</h2>
+                <p id="roomGuidance">请从菜单或地图上选择一个房间查看详情。</p>
+
+                <div id="roomDetailsContainer" style="display: none;">
+                    <p><strong>区域：</strong> <span id="roomType"></span></p>
+                    <p><strong>描述：</strong> <span id="roomDescription"></span></p>
+                    <p><strong>人员：</strong></p>
+                    <ul id="roomPersonnel"></ul>
+                    <div id="roomImages">
+                        <!-- 房间图片将由JavaScript动态生成 -->
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <div id="imageModal" class="modal">
+        <span class="close-modal">&times;</span>
+        <img class="modal-content" id="modalImage">
+    </div>
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
