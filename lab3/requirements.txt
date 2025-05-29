@@ -1,0 +1,8 @@
+gradio
+upstash-vector
+torch
+torchvision
+Pillow
+transformers
+python-dotenv
+sentence-transformers

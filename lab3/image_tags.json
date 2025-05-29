@@ -1,0 +1,3838 @@
+{
+  "train\\Fruit\\Nectarine\\Nectarine_013.jpg": {
+    "fine_label_id": 15,
+    "fine_label_name": "Nectarine",
+    "coarse_label_id": 8,
+    "coarse_label_name": "Nectarine",
+    "description": "The nectarine is a stone fruit with plain peel and yellow or orange pulp, which is somewhat firmer than the peach. Nectarine is suitable for eating naturally but can also be used for pastry, marmalade and jam.",
+    "image_path": "train\\Fruit\\Nectarine\\Nectarine_013.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Nectarine\\Nectarine_013.jpg",
+    "categories": [
+      "Nectarine",
+      "Nectarine"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_023.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_023.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_023.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_007.jpg": {
+    "fine_label_id": 32,
+    "fine_label_name": "God-Morgon-Orange-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Red-Grapefruit-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_022.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_022.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_022.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_004.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_004.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_004.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_030.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_030.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_030.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_002.jpg": {
+    "fine_label_id": 32,
+    "fine_label_name": "God-Morgon-Orange-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_002.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_002.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Red-Grapefruit-Juice"
+    ]
+  },
+  "test\\Fruit\\Passion-Fruit\\Passion-Fruit_011.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "test\\Fruit\\Passion-Fruit\\Passion-Fruit_011.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Passion-Fruit\\Passion-Fruit_011.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_011.jpg": {
+    "fine_label_id": 35,
+    "fine_label_name": "Tropicana-Golden-Grapefruit",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Golden Grape is a ready to drink juice with pulp pressed on grapefruit. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_011.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_011.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Golden-Grapefruit"
+    ]
+  },
+  "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_015.jpg": {
+    "fine_label_id": 67,
+    "fine_label_name": "Brown-Cap-Mushroom",
+    "coarse_label_id": 36,
+    "coarse_label_name": "Mushroom",
+    "description": "The forest mushroom is also called chestnut mushroom, and is a brown mushroom with a fuller flavor than the white mushrooms. It can be eaten raw in for example salads, but are also good to boil, pan-fry or fry.",
+    "image_path": "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_015.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_015.jpg",
+    "categories": [
+      "Mushroom",
+      "Brown-Cap-Mushroom"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_013.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_013.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_013.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_024.jpg": {
+    "fine_label_id": 13,
+    "fine_label_name": "Honeydew-Melon",
+    "coarse_label_id": 7,
+    "coarse_label_name": "Melon",
+    "description": "Honeydew melon is an oval shaped sugarmelon, with a yellow shell. The pulp is creamy light yellow with juicy, sweet and fresh taste, which is milder than other melons.",
+    "image_path": "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_024.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_024.jpg",
+    "categories": [
+      "Melon",
+      "Honeydew-Melon"
+    ]
+  },
+  "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_002.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_002.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_002.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_015.jpg": {
+    "fine_label_id": 74,
+    "fine_label_name": "Solid-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Solid potatoes. A good allround potato that fits well most of the time.",
+    "image_path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_015.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_015.jpg",
+    "categories": [
+      "Potato",
+      "Solid-Potato"
+    ]
+  },
+  "val\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_004.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "val\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_004.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_004.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_028.jpg": {
+    "fine_label_id": 74,
+    "fine_label_name": "Solid-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Solid potatoes. A good allround potato that fits well most of the time.",
+    "image_path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_028.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_028.jpg",
+    "categories": [
+      "Potato",
+      "Solid-Potato"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_007.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_007.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_007.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_004.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_004.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_004.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_017.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_017.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_017.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_022.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_022.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_022.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_030.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_030.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_030.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_007.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_007.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_016.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_016.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_016.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_014.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_014.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_014.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "test\\Fruit\\Kiwi\\Kiwi_042.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "test\\Fruit\\Kiwi\\Kiwi_042.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Kiwi\\Kiwi_042.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_014.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_014.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_014.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_011.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_011.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_011.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_005.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_005.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_005.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_015.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_015.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_015.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_004.jpg": {
+    "fine_label_id": 74,
+    "fine_label_name": "Solid-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Solid potatoes. A good allround potato that fits well most of the time.",
+    "image_path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_004.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_004.jpg",
+    "categories": [
+      "Potato",
+      "Solid-Potato"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_010.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_010.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_010.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_023.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_023.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_023.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_013.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_013.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_013.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_025.jpg": {
+    "fine_label_id": 67,
+    "fine_label_name": "Brown-Cap-Mushroom",
+    "coarse_label_id": 36,
+    "coarse_label_name": "Mushroom",
+    "description": "The forest mushroom is also called chestnut mushroom, and is a brown mushroom with a fuller flavor than the white mushrooms. It can be eaten raw in for example salads, but are also good to boil, pan-fry or fry.",
+    "image_path": "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_025.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_025.jpg",
+    "categories": [
+      "Mushroom",
+      "Brown-Cap-Mushroom"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_005.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_005.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_005.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "val\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_002.jpg": {
+    "fine_label_id": 68,
+    "fine_label_name": "Yellow-Onion",
+    "coarse_label_id": 37,
+    "coarse_label_name": "Onion",
+    "description": "Yellow onion is a good flavoring. Fits well both cold and hot in cooking.",
+    "image_path": "val\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_002.jpg",
+    "image_type": "natural",
+    "path": "val\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_002.jpg",
+    "categories": [
+      "Onion",
+      "Yellow-Onion"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_020.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_020.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_020.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_020.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_020.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_020.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_016.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_016.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_016.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_038.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_038.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_038.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_026.jpg": {
+    "fine_label_id": 33,
+    "fine_label_name": "God-Morgon-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Red Grapefruit is a real vitamin kick - mellow, rich in taste and as refreshing as only red grapefruit can be.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_026.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_026.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Red-Grapefruit-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_011.jpg": {
+    "fine_label_id": 32,
+    "fine_label_name": "God-Morgon-Orange-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_011.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_011.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Red-Grapefruit-Juice"
+    ]
+  },
+  "test\\Fruit\\Passion-Fruit\\Passion-Fruit_014.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "test\\Fruit\\Passion-Fruit\\Passion-Fruit_014.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Passion-Fruit\\Passion-Fruit_014.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_015.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_015.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_015.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_017.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_017.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_017.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_020.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_020.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_020.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_016.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_016.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_016.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_007.jpg": {
+    "fine_label_id": 68,
+    "fine_label_name": "Yellow-Onion",
+    "coarse_label_id": 37,
+    "coarse_label_name": "Onion",
+    "description": "Yellow onion is a good flavoring. Fits well both cold and hot in cooking.",
+    "image_path": "train\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_007.jpg",
+    "categories": [
+      "Onion",
+      "Yellow-Onion"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_009.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_009.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_009.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_022.jpg": {
+    "fine_label_id": 74,
+    "fine_label_name": "Solid-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Solid potatoes. A good allround potato that fits well most of the time.",
+    "image_path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_022.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_022.jpg",
+    "categories": [
+      "Potato",
+      "Solid-Potato"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_004.jpg": {
+    "fine_label_id": 35,
+    "fine_label_name": "Tropicana-Golden-Grapefruit",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Golden Grape is a ready to drink juice with pulp pressed on grapefruit. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_004.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_004.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Golden-Grapefruit"
+    ]
+  },
+  "train\\Fruit\\Nectarine\\Nectarine_027.jpg": {
+    "fine_label_id": 15,
+    "fine_label_name": "Nectarine",
+    "coarse_label_id": 8,
+    "coarse_label_name": "Nectarine",
+    "description": "The nectarine is a stone fruit with plain peel and yellow or orange pulp, which is somewhat firmer than the peach. Nectarine is suitable for eating naturally but can also be used for pastry, marmalade and jam.",
+    "image_path": "train\\Fruit\\Nectarine\\Nectarine_027.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Nectarine\\Nectarine_027.jpg",
+    "categories": [
+      "Nectarine",
+      "Nectarine"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_023.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_023.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_023.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_010.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_010.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_010.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_006.jpg": {
+    "fine_label_id": 35,
+    "fine_label_name": "Tropicana-Golden-Grapefruit",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Golden Grape is a ready to drink juice with pulp pressed on grapefruit. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_006.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_006.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Golden-Grapefruit"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_017.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_017.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_017.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_021.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_021.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_021.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_007.jpg": {
+    "fine_label_id": 13,
+    "fine_label_name": "Honeydew-Melon",
+    "coarse_label_id": 7,
+    "coarse_label_name": "Melon",
+    "description": "Honeydew melon is an oval shaped sugarmelon, with a yellow shell. The pulp is creamy light yellow with juicy, sweet and fresh taste, which is milder than other melons.",
+    "image_path": "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_007.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_007.jpg",
+    "categories": [
+      "Melon",
+      "Honeydew-Melon"
+    ]
+  },
+  "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_034.jpg": {
+    "fine_label_id": 2,
+    "fine_label_name": "Pink-Lady",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Pink Lady reminds of Royal Gala, though it is an even sweeter and crispier apple.",
+    "image_path": "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_034.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_034.jpg",
+    "categories": [
+      "Apple",
+      "Pink-Lady"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_024.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_024.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_024.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_003.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_003.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_003.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_018.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_018.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_018.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_013.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_013.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_013.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_006.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_006.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_006.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "train\\Fruit\\Nectarine\\Nectarine_018.jpg": {
+    "fine_label_id": 15,
+    "fine_label_name": "Nectarine",
+    "coarse_label_id": 8,
+    "coarse_label_name": "Nectarine",
+    "description": "The nectarine is a stone fruit with plain peel and yellow or orange pulp, which is somewhat firmer than the peach. Nectarine is suitable for eating naturally but can also be used for pastry, marmalade and jam.",
+    "image_path": "train\\Fruit\\Nectarine\\Nectarine_018.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Nectarine\\Nectarine_018.jpg",
+    "categories": [
+      "Nectarine",
+      "Nectarine"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_007.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_010.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_010.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_010.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_003.jpg": {
+    "fine_label_id": 32,
+    "fine_label_name": "God-Morgon-Orange-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_003.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_003.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Red-Grapefruit-Juice"
+    ]
+  },
+  "train\\Vegetables\\Red-Beet\\Red-Beet_016.jpg": {
+    "fine_label_id": 76,
+    "fine_label_name": "Red-Beet",
+    "coarse_label_id": 40,
+    "coarse_label_name": "Red-Beet",
+    "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.",
+    "image_path": "train\\Vegetables\\Red-Beet\\Red-Beet_016.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Red-Beet\\Red-Beet_016.jpg",
+    "categories": [
+      "Red-Beet",
+      "Red-Beet"
+    ]
+  },
+  "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_027.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_027.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_027.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_019.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_019.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_019.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_004.jpg": {
+    "fine_label_id": 33,
+    "fine_label_name": "God-Morgon-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Red Grapefruit is a real vitamin kick - mellow, rich in taste and as refreshing as only red grapefruit can be.",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_004.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_004.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Red-Grapefruit-Juice"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_002.jpg": {
+    "fine_label_id": 74,
+    "fine_label_name": "Solid-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Solid potatoes. A good allround potato that fits well most of the time.",
+    "image_path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_002.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_002.jpg",
+    "categories": [
+      "Potato",
+      "Solid-Potato"
+    ]
+  },
+  "test\\Packages\\Yoghurt\\Valio-Vanilla-Yoghurt\\Valio-Vanilla-Yoghurt_011.jpg": {
+    "fine_label_id": 56,
+    "fine_label_name": "Valio-Vanilla-Yoghurt",
+    "coarse_label_id": 27,
+    "coarse_label_name": "Yoghurt",
+    "description": "The original! Valio's creamy vanilla yoghurt original. The yogurt is carefully sugared with 30 percent less added sugar than regular flavored yogurt. Great for both breakfast and snacks.",
+    "image_path": "test\\Packages\\Yoghurt\\Valio-Vanilla-Yoghurt\\Valio-Vanilla-Yoghurt_011.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Yoghurt\\Valio-Vanilla-Yoghurt\\Valio-Vanilla-Yoghurt_011.jpg",
+    "categories": [
+      "Yoghurt",
+      "Valio-Vanilla-Yoghurt"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_029.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_029.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_029.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_019.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_019.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_019.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_008.jpg": {
+    "fine_label_id": 30,
+    "fine_label_name": "God-Morgon-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Apple is unfiltered, which gives a richer, more delicious juice with real apple flavor.",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_008.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_008.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_015.jpg": {
+    "fine_label_id": 30,
+    "fine_label_name": "God-Morgon-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Apple is unfiltered, which gives a richer, more delicious juice with real apple flavor.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_015.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_015.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Apple-Juice"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_017.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_017.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_017.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "test\\Fruit\\Passion-Fruit\\Passion-Fruit_018.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "test\\Fruit\\Passion-Fruit\\Passion-Fruit_018.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Passion-Fruit\\Passion-Fruit_018.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "train\\Fruit\\Red-Grapefruit\\Red-Grapefruit_016.jpg": {
+    "fine_label_id": 26,
+    "fine_label_name": "Red-Grapefruit",
+    "coarse_label_id": 17,
+    "coarse_label_name": "Red-Grapefruit",
+    "description": "The red grapefruit has a red pulp and a slightly pink colored peel. The taste is characteristically bitter, but at the same time fresh and sour. The red grapefruit is sweeter than the blonde grapefruit.",
+    "image_path": "train\\Fruit\\Red-Grapefruit\\Red-Grapefruit_016.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Red-Grapefruit\\Red-Grapefruit_016.jpg",
+    "categories": [
+      "Red-Grapefruit",
+      "Red-Grapefruit"
+    ]
+  },
+  "val\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_002.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "val\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_002.jpg",
+    "image_type": "natural",
+    "path": "val\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_002.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_005.jpg": {
+    "fine_label_id": 13,
+    "fine_label_name": "Honeydew-Melon",
+    "coarse_label_id": 7,
+    "coarse_label_name": "Melon",
+    "description": "Honeydew melon is an oval shaped sugarmelon, with a yellow shell. The pulp is creamy light yellow with juicy, sweet and fresh taste, which is milder than other melons.",
+    "image_path": "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_005.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Melon\\Honeydew-Melon\\Honeydew-Melon_005.jpg",
+    "categories": [
+      "Melon",
+      "Honeydew-Melon"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_017.jpg": {
+    "fine_label_id": 32,
+    "fine_label_name": "God-Morgon-Orange-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_017.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_017.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Red-Grapefruit-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_003.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_003.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_003.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_015.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_015.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_015.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_002.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_002.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_002.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_008.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_008.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_008.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_009.jpg": {
+    "fine_label_id": 30,
+    "fine_label_name": "God-Morgon-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Apple is unfiltered, which gives a richer, more delicious juice with real apple flavor.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_009.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_009.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_007.jpg": {
+    "fine_label_id": 32,
+    "fine_label_name": "God-Morgon-Orange-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Red-Grapefruit-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_012.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_012.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_012.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_020.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_020.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_020.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "val\\Fruit\\Mango\\Mango_002.jpg": {
+    "fine_label_id": 10,
+    "fine_label_name": "Mango",
+    "coarse_label_id": 6,
+    "coarse_label_name": "Mango",
+    "description": "Mango has a fresh, powerful and sweet taste, but a special exotic shade. Inside there is a large, oval kernel in which the pulp is grown in. This makes the best way to cut mango is with the shell on. Divide the fruit by cutting along on both sides of the core. Mango can be eaten naturally or in desserts, entrees and main courses.",
+    "image_path": "val\\Fruit\\Mango\\Mango_002.jpg",
+    "image_type": "natural",
+    "path": "val\\Fruit\\Mango\\Mango_002.jpg",
+    "categories": [
+      "Mango",
+      "Mango"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_019.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_019.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_019.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_013.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_013.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_013.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_014.jpg": {
+    "fine_label_id": 35,
+    "fine_label_name": "Tropicana-Golden-Grapefruit",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Golden Grape is a ready to drink juice with pulp pressed on grapefruit. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_014.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_014.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Golden-Grapefruit"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_007.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_024.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_024.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_024.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "val\\Vegetables\\Red-Beet\\Red-Beet_005.jpg": {
+    "fine_label_id": 76,
+    "fine_label_name": "Red-Beet",
+    "coarse_label_id": 40,
+    "coarse_label_name": "Red-Beet",
+    "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.",
+    "image_path": "val\\Vegetables\\Red-Beet\\Red-Beet_005.jpg",
+    "image_type": "natural",
+    "path": "val\\Vegetables\\Red-Beet\\Red-Beet_005.jpg",
+    "categories": [
+      "Red-Beet",
+      "Red-Beet"
+    ]
+  },
+  "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_023.jpg": {
+    "fine_label_id": 67,
+    "fine_label_name": "Brown-Cap-Mushroom",
+    "coarse_label_id": 36,
+    "coarse_label_name": "Mushroom",
+    "description": "The forest mushroom is also called chestnut mushroom, and is a brown mushroom with a fuller flavor than the white mushrooms. It can be eaten raw in for example salads, but are also good to boil, pan-fry or fry.",
+    "image_path": "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_023.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Brown-Cap-Mushroom\\Brown-Cap-Mushroom_023.jpg",
+    "categories": [
+      "Mushroom",
+      "Brown-Cap-Mushroom"
+    ]
+  },
+  "train\\Vegetables\\Red-Beet\\Red-Beet_018.jpg": {
+    "fine_label_id": 76,
+    "fine_label_name": "Red-Beet",
+    "coarse_label_id": 40,
+    "coarse_label_name": "Red-Beet",
+    "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.",
+    "image_path": "train\\Vegetables\\Red-Beet\\Red-Beet_018.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Red-Beet\\Red-Beet_018.jpg",
+    "categories": [
+      "Red-Beet",
+      "Red-Beet"
+    ]
+  },
+  "val\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_005.jpg": {
+    "fine_label_id": 68,
+    "fine_label_name": "Yellow-Onion",
+    "coarse_label_id": 37,
+    "coarse_label_name": "Onion",
+    "description": "Yellow onion is a good flavoring. Fits well both cold and hot in cooking.",
+    "image_path": "val\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_005.jpg",
+    "image_type": "natural",
+    "path": "val\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_005.jpg",
+    "categories": [
+      "Onion",
+      "Yellow-Onion"
+    ]
+  },
+  "train\\Vegetables\\Ginger\\Ginger_003.jpg": {
+    "fine_label_id": 65,
+    "fine_label_name": "Ginger",
+    "coarse_label_id": 34,
+    "coarse_label_name": "Ginger",
+    "description": "Ginger is a herb with a characteristically sharp taste. It is used for flavoring and accessories, especially in Asian cuisine. Vegetables and curries, rice, pickles, meat and fish are good for flavoring with ginger. The rich aroma also fits well with cookies, biscuits, marmalades and sweet desserts.",
+    "image_path": "train\\Vegetables\\Ginger\\Ginger_003.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Ginger\\Ginger_003.jpg",
+    "categories": [
+      "Ginger",
+      "Ginger"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_025.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_025.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_025.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_009.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_009.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_009.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Vegetables\\Garlic\\Garlic_017.jpg": {
+    "fine_label_id": 64,
+    "fine_label_name": "Garlic",
+    "coarse_label_id": 33,
+    "coarse_label_name": "Garlic",
+    "description": "Garlic has unique flavor and smell, and is a good flavoring in pasta dishes, pots, mixes, etc.",
+    "image_path": "train\\Vegetables\\Garlic\\Garlic_017.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Garlic\\Garlic_017.jpg",
+    "categories": [
+      "Garlic",
+      "Garlic"
+    ]
+  },
+  "val\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_004.jpg": {
+    "fine_label_id": 50,
+    "fine_label_name": "Alpro-Vanilla-Soyghurt",
+    "coarse_label_id": 25,
+    "coarse_label_name": "Soyghurt",
+    "description": "Soy based ghurt, used as yoghurt, with mild vanilla taste and and creamy texture.",
+    "image_path": "val\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_004.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_004.jpg",
+    "categories": [
+      "Soyghurt",
+      "Alpro-Vanilla-Soyghurt"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_015.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_015.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_015.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Fruit\\Kiwi\\Kiwi_014.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "test\\Fruit\\Kiwi\\Kiwi_014.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Kiwi\\Kiwi_014.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Vegetables\\Garlic\\Garlic_004.jpg": {
+    "fine_label_id": 64,
+    "fine_label_name": "Garlic",
+    "coarse_label_id": 33,
+    "coarse_label_name": "Garlic",
+    "description": "Garlic has unique flavor and smell, and is a good flavoring in pasta dishes, pots, mixes, etc.",
+    "image_path": "train\\Vegetables\\Garlic\\Garlic_004.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Garlic\\Garlic_004.jpg",
+    "categories": [
+      "Garlic",
+      "Garlic"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_004.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_004.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_004.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_021.jpg": {
+    "fine_label_id": 74,
+    "fine_label_name": "Solid-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Solid potatoes. A good allround potato that fits well most of the time.",
+    "image_path": "test\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_021.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_021.jpg",
+    "categories": [
+      "Potato",
+      "Solid-Potato"
+    ]
+  },
+  "train\\Vegetables\\Red-Beet\\Red-Beet_003.jpg": {
+    "fine_label_id": 76,
+    "fine_label_name": "Red-Beet",
+    "coarse_label_id": 40,
+    "coarse_label_name": "Red-Beet",
+    "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.",
+    "image_path": "train\\Vegetables\\Red-Beet\\Red-Beet_003.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Red-Beet\\Red-Beet_003.jpg",
+    "categories": [
+      "Red-Beet",
+      "Red-Beet"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_013.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_013.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_013.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_022.jpg": {
+    "fine_label_id": 68,
+    "fine_label_name": "Yellow-Onion",
+    "coarse_label_id": 37,
+    "coarse_label_name": "Onion",
+    "description": "Yellow onion is a good flavoring. Fits well both cold and hot in cooking.",
+    "image_path": "test\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_022.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_022.jpg",
+    "categories": [
+      "Onion",
+      "Yellow-Onion"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_001.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_015.jpg": {
+    "fine_label_id": 68,
+    "fine_label_name": "Yellow-Onion",
+    "coarse_label_id": 37,
+    "coarse_label_name": "Onion",
+    "description": "Yellow onion is a good flavoring. Fits well both cold and hot in cooking.",
+    "image_path": "test\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_015.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_015.jpg",
+    "categories": [
+      "Onion",
+      "Yellow-Onion"
+    ]
+  },
+  "train\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_034.jpg": {
+    "fine_label_id": 68,
+    "fine_label_name": "Yellow-Onion",
+    "coarse_label_id": 37,
+    "coarse_label_name": "Onion",
+    "description": "Yellow onion is a good flavoring. Fits well both cold and hot in cooking.",
+    "image_path": "train\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_034.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Onion\\Yellow-Onion\\Yellow-Onion_034.jpg",
+    "categories": [
+      "Onion",
+      "Yellow-Onion"
+    ]
+  },
+  "train\\Vegetables\\Garlic\\Garlic_018.jpg": {
+    "fine_label_id": 64,
+    "fine_label_name": "Garlic",
+    "coarse_label_id": 33,
+    "coarse_label_name": "Garlic",
+    "description": "Garlic has unique flavor and smell, and is a good flavoring in pasta dishes, pots, mixes, etc.",
+    "image_path": "train\\Vegetables\\Garlic\\Garlic_018.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Garlic\\Garlic_018.jpg",
+    "categories": [
+      "Garlic",
+      "Garlic"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_034.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_034.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_034.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_003.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_003.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_003.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_026.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_026.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_026.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_022.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_022.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_022.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Fruit\\Passion-Fruit\\Passion-Fruit_021.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_021.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_021.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_016.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_016.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_016.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "test\\Vegetables\\Red-Beet\\Red-Beet_016.jpg": {
+    "fine_label_id": 76,
+    "fine_label_name": "Red-Beet",
+    "coarse_label_id": 40,
+    "coarse_label_name": "Red-Beet",
+    "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.",
+    "image_path": "test\\Vegetables\\Red-Beet\\Red-Beet_016.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Red-Beet\\Red-Beet_016.jpg",
+    "categories": [
+      "Red-Beet",
+      "Red-Beet"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_006.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_006.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_006.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_006.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_006.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_006.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Vegetables\\Tomato\\Regular-Tomato\\Regular-Tomato_019.jpg": {
+    "fine_label_id": 78,
+    "fine_label_name": "Regular-Tomato",
+    "coarse_label_id": 41,
+    "coarse_label_name": "Tomato",
+    "description": "Round and fine tomatoes from Sweden. Rinse and have in the salad or on the sandwich.",
+    "image_path": "train\\Vegetables\\Tomato\\Regular-Tomato\\Regular-Tomato_019.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Tomato\\Regular-Tomato\\Regular-Tomato_019.jpg",
+    "categories": [
+      "Tomato",
+      "Regular-Tomato"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_007.jpg": {
+    "fine_label_id": 30,
+    "fine_label_name": "God-Morgon-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Apple is unfiltered, which gives a richer, more delicious juice with real apple flavor.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Apple-Juice\\God-Morgon-Apple-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Apple-Juice"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_009.jpg": {
+    "fine_label_id": 74,
+    "fine_label_name": "Solid-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Solid potatoes. A good allround potato that fits well most of the time.",
+    "image_path": "test\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_009.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Solid-Potato\\Solid-Potato_009.jpg",
+    "categories": [
+      "Potato",
+      "Solid-Potato"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_007.jpg": {
+    "fine_label_id": 33,
+    "fine_label_name": "God-Morgon-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Red Grapefruit is a real vitamin kick - mellow, rich in taste and as refreshing as only red grapefruit can be.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Red-Grapefruit-Juice"
+    ]
+  },
+  "test\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_018.jpg": {
+    "fine_label_id": 38,
+    "fine_label_name": "Arla-Ecological-Medium-Fat-Milk",
+    "coarse_label_id": 20,
+    "coarse_label_name": "Milk",
+    "description": "Fresh skimmed Milk made from Swedish Milk from organic Arlagårdar. Skimmed milk has a delicious full flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100% Swedish milk. The new brown carton has 24 percent lower climate impact compared to the previous white carton.",
+    "image_path": "test\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_018.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_018.jpg",
+    "categories": [
+      "Milk",
+      "Arla-Ecological-Medium-Fat-Milk"
+    ]
+  },
+  "train\\Packages\\Milk\\Arla-Medium-Fat-Milk\\Arla-Medium-Fat-Milk_001.jpg": {
+    "fine_label_id": 40,
+    "fine_label_name": "Arla-Medium-Fat-Milk",
+    "coarse_label_id": 20,
+    "coarse_label_name": "Milk",
+    "description": "Fresh skimmed milk made from Swedish milk from Arlagårdar. Skimmed milk has a delicious full-bodied milk flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "train\\Packages\\Milk\\Arla-Medium-Fat-Milk\\Arla-Medium-Fat-Milk_001.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Milk\\Arla-Medium-Fat-Milk\\Arla-Medium-Fat-Milk_001.jpg",
+    "categories": [
+      "Milk",
+      "Arla-Medium-Fat-Milk"
+    ]
+  },
+  "train\\Vegetables\\Garlic\\Garlic_010.jpg": {
+    "fine_label_id": 64,
+    "fine_label_name": "Garlic",
+    "coarse_label_id": 33,
+    "coarse_label_name": "Garlic",
+    "description": "Garlic has unique flavor and smell, and is a good flavoring in pasta dishes, pots, mixes, etc.",
+    "image_path": "train\\Vegetables\\Garlic\\Garlic_010.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Garlic\\Garlic_010.jpg",
+    "categories": [
+      "Garlic",
+      "Garlic"
+    ]
+  },
+  "train\\Vegetables\\Red-Beet\\Red-Beet_008.jpg": {
+    "fine_label_id": 76,
+    "fine_label_name": "Red-Beet",
+    "coarse_label_id": 40,
+    "coarse_label_name": "Red-Beet",
+    "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.",
+    "image_path": "train\\Vegetables\\Red-Beet\\Red-Beet_008.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Red-Beet\\Red-Beet_008.jpg",
+    "categories": [
+      "Red-Beet",
+      "Red-Beet"
+    ]
+  },
+  "test\\Vegetables\\Carrots\\Carrots_023.jpg": {
+    "fine_label_id": 62,
+    "fine_label_name": "Carrots",
+    "coarse_label_id": 31,
+    "coarse_label_name": "Carrots",
+    "description": "The orange red color of the carrot comes from the high content of beta carotene, which in the body is converted into vitamin A. Tastefully, carrot is sweet, with a crunchy texture. Carrots can be eaten raw, and are also used in pots, gratins, soups and wok.",
+    "image_path": "test\\Vegetables\\Carrots\\Carrots_023.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Carrots\\Carrots_023.jpg",
+    "categories": [
+      "Carrots",
+      "Carrots"
+    ]
+  },
+  "test\\Packages\\Milk\\Garant-Ecological-Standard-Milk\\Garant-Ecological-Standard-Milk_011.jpg": {
+    "fine_label_id": 43,
+    "fine_label_name": "Garant-Ecological-Standard-Milk",
+    "coarse_label_id": 20,
+    "coarse_label_name": "Milk",
+    "description": "Ecological milk from Swedish KRAV-labeled farms.",
+    "image_path": "test\\Packages\\Milk\\Garant-Ecological-Standard-Milk\\Garant-Ecological-Standard-Milk_011.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Milk\\Garant-Ecological-Standard-Milk\\Garant-Ecological-Standard-Milk_011.jpg",
+    "categories": [
+      "Milk",
+      "Garant-Ecological-Standard-Milk"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_016.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_016.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_016.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Vegetables\\Red-Beet\\Red-Beet_010.jpg": {
+    "fine_label_id": 76,
+    "fine_label_name": "Red-Beet",
+    "coarse_label_id": 40,
+    "coarse_label_name": "Red-Beet",
+    "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.",
+    "image_path": "train\\Vegetables\\Red-Beet\\Red-Beet_010.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Red-Beet\\Red-Beet_010.jpg",
+    "categories": [
+      "Red-Beet",
+      "Red-Beet"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_011.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_011.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_011.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_010.jpg": {
+    "fine_label_id": 33,
+    "fine_label_name": "God-Morgon-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Red Grapefruit is a real vitamin kick - mellow, rich in taste and as refreshing as only red grapefruit can be.",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_010.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_010.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Red-Grapefruit-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_003.jpg": {
+    "fine_label_id": 35,
+    "fine_label_name": "Tropicana-Golden-Grapefruit",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Golden Grape is a ready to drink juice with pulp pressed on grapefruit. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_003.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_003.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Golden-Grapefruit"
+    ]
+  },
+  "train\\Vegetables\\Zucchini\\Zucchini_011.jpg": {
+    "fine_label_id": 80,
+    "fine_label_name": "Zucchini",
+    "coarse_label_id": 42,
+    "coarse_label_name": "Zucchini",
+    "description": "Zucchini can be eaten raw, but is usually used in soups, pots, stews, etc.",
+    "image_path": "train\\Vegetables\\Zucchini\\Zucchini_011.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Zucchini\\Zucchini_011.jpg",
+    "categories": [
+      "Zucchini",
+      "Zucchini"
+    ]
+  },
+  "train\\Vegetables\\Tomato\\Beef-Tomato\\Beef-Tomato_015.jpg": {
+    "fine_label_id": 77,
+    "fine_label_name": "Beef-Tomato",
+    "coarse_label_id": 41,
+    "coarse_label_name": "Tomato",
+    "description": "An extra large tomato suitable for well for hamburgers and on the grill or in the oven.",
+    "image_path": "train\\Vegetables\\Tomato\\Beef-Tomato\\Beef-Tomato_015.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Tomato\\Beef-Tomato\\Beef-Tomato_015.jpg",
+    "categories": [
+      "Tomato",
+      "Beef-Tomato"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_004.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_004.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_004.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_043.jpg": {
+    "fine_label_id": 2,
+    "fine_label_name": "Pink-Lady",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Pink Lady reminds of Royal Gala, though it is an even sweeter and crispier apple.",
+    "image_path": "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_043.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_043.jpg",
+    "categories": [
+      "Apple",
+      "Pink-Lady"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_001.jpg": {
+    "fine_label_id": 32,
+    "fine_label_name": "God-Morgon-Orange-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_001.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_001.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Red-Grapefruit-Juice"
+    ]
+  },
+  "train\\Packages\\Oatghurt\\Oatly-Natural-Oatghurt\\Oatly-Natural-Oatghurt_017.jpg": {
+    "fine_label_id": 44,
+    "fine_label_name": "Oatly-Natural-Oatghurt",
+    "coarse_label_id": 21,
+    "coarse_label_name": "Oatghurt",
+    "description": "Whole vegetable ghurt, used as yoghurt. Can also be used for cold sauces.",
+    "image_path": "train\\Packages\\Oatghurt\\Oatly-Natural-Oatghurt\\Oatly-Natural-Oatghurt_017.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Oatghurt\\Oatly-Natural-Oatghurt\\Oatly-Natural-Oatghurt_017.jpg",
+    "categories": [
+      "Oatghurt",
+      "Oatly-Natural-Oatghurt"
+    ]
+  },
+  "val\\Vegetables\\Aubergine\\Aubergine_003.jpg": {
+    "fine_label_id": 60,
+    "fine_label_name": "Aubergine",
+    "coarse_label_id": 29,
+    "coarse_label_name": "Aubergine",
+    "description": "Aubergine, or eggplant as it is also called, is usually dark violet. It has a shiny peel and is 15-20 cm long. The pulp is white. Aubergine is always eaten cooked. In addition to Moussaka, Aubergine fits well in pots and gratins.",
+    "image_path": "val\\Vegetables\\Aubergine\\Aubergine_003.jpg",
+    "image_type": "natural",
+    "path": "val\\Vegetables\\Aubergine\\Aubergine_003.jpg",
+    "categories": [
+      "Aubergine",
+      "Aubergine"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_008.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_008.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_008.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "test\\Vegetables\\Red-Beet\\Red-Beet_017.jpg": {
+    "fine_label_id": 76,
+    "fine_label_name": "Red-Beet",
+    "coarse_label_id": 40,
+    "coarse_label_name": "Red-Beet",
+    "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.",
+    "image_path": "test\\Vegetables\\Red-Beet\\Red-Beet_017.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Red-Beet\\Red-Beet_017.jpg",
+    "categories": [
+      "Red-Beet",
+      "Red-Beet"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_012.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_012.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_012.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "train\\Packages\\Oatghurt\\Oatly-Natural-Oatghurt\\Oatly-Natural-Oatghurt_009.jpg": {
+    "fine_label_id": 44,
+    "fine_label_name": "Oatly-Natural-Oatghurt",
+    "coarse_label_id": 21,
+    "coarse_label_name": "Oatghurt",
+    "description": "Whole vegetable ghurt, used as yoghurt. Can also be used for cold sauces.",
+    "image_path": "train\\Packages\\Oatghurt\\Oatly-Natural-Oatghurt\\Oatly-Natural-Oatghurt_009.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Oatghurt\\Oatly-Natural-Oatghurt\\Oatly-Natural-Oatghurt_009.jpg",
+    "categories": [
+      "Oatghurt",
+      "Oatly-Natural-Oatghurt"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_006.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_006.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_006.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Vegetables\\Ginger\\Ginger_015.jpg": {
+    "fine_label_id": 65,
+    "fine_label_name": "Ginger",
+    "coarse_label_id": 34,
+    "coarse_label_name": "Ginger",
+    "description": "Ginger is a herb with a characteristically sharp taste. It is used for flavoring and accessories, especially in Asian cuisine. Vegetables and curries, rice, pickles, meat and fish are good for flavoring with ginger. The rich aroma also fits well with cookies, biscuits, marmalades and sweet desserts.",
+    "image_path": "train\\Vegetables\\Ginger\\Ginger_015.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Ginger\\Ginger_015.jpg",
+    "categories": [
+      "Ginger",
+      "Ginger"
+    ]
+  },
+  "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_012.jpg": {
+    "fine_label_id": 46,
+    "fine_label_name": "Arla-Ecological-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "KRAV-labeled sour cream made from fresh cream from Swedish organic Arlagårdar. Sour cream is a real classic that has its obvious place for both everyday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy consistency and is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_012.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_012.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Ecological-Sour-Cream"
+    ]
+  },
+  "train\\Packages\\Yoghurt\\Arla-Natural-Yoghurt\\Arla-Natural-Yoghurt_018.jpg": {
+    "fine_label_id": 55,
+    "fine_label_name": "Arla-Natural-Yoghurt",
+    "coarse_label_id": 27,
+    "coarse_label_name": "Yoghurt",
+    "description": "Creamy, slightly more acidic yoghurt with a clear yoghurt character. Acidic with selected bacterial strains giving extra clear yoghurt aroma. The yoghurt tastes as good for breakfast as snack and fits well with nuts, honey and fresh berries. With its creamy texture and clear acid, it is also great for kebab sauce, baking bread and yoghurt drinks. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "train\\Packages\\Yoghurt\\Arla-Natural-Yoghurt\\Arla-Natural-Yoghurt_018.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Yoghurt\\Arla-Natural-Yoghurt\\Arla-Natural-Yoghurt_018.jpg",
+    "categories": [
+      "Yoghurt",
+      "Arla-Natural-Yoghurt"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_006.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_006.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_006.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_022.jpg": {
+    "fine_label_id": 46,
+    "fine_label_name": "Arla-Ecological-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "KRAV-labeled sour cream made from fresh cream from Swedish organic Arlagårdar. Sour cream is a real classic that has its obvious place for both everyday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy consistency and is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_022.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_022.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Ecological-Sour-Cream"
+    ]
+  },
+  "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_018.jpg": {
+    "fine_label_id": 46,
+    "fine_label_name": "Arla-Ecological-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "KRAV-labeled sour cream made from fresh cream from Swedish organic Arlagårdar. Sour cream is a real classic that has its obvious place for both everyday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy consistency and is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_018.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_018.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Ecological-Sour-Cream"
+    ]
+  },
+  "train\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_010.jpg": {
+    "fine_label_id": 47,
+    "fine_label_name": "Arla-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "Sour cream made from fresh cream from Swedish Arlagårdar. Sour cream is a real classic that has its obvious place for both weekday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy texture. The product is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "train\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_010.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_010.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Sour-Cream"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_002.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_002.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_002.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "val\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_001.jpg": {
+    "fine_label_id": 47,
+    "fine_label_name": "Arla-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "Sour cream made from fresh cream from Swedish Arlagårdar. Sour cream is a real classic that has its obvious place for both weekday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy texture. The product is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "val\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_001.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_001.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Sour-Cream"
+    ]
+  },
+  "test\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_007.jpg": {
+    "fine_label_id": 47,
+    "fine_label_name": "Arla-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "Sour cream made from fresh cream from Swedish Arlagårdar. Sour cream is a real classic that has its obvious place for both weekday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy texture. The product is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_007.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_007.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Sour-Cream"
+    ]
+  },
+  "test\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_001.jpg": {
+    "fine_label_id": 47,
+    "fine_label_name": "Arla-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "Sour cream made from fresh cream from Swedish Arlagårdar. Sour cream is a real classic that has its obvious place for both weekday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy texture. The product is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_001.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_001.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Sour-Cream"
+    ]
+  },
+  "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_003.jpg": {
+    "fine_label_id": 46,
+    "fine_label_name": "Arla-Ecological-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "KRAV-labeled sour cream made from fresh cream from Swedish organic Arlagårdar. Sour cream is a real classic that has its obvious place for both everyday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy consistency and is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_003.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_003.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Ecological-Sour-Cream"
+    ]
+  },
+  "train\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_012.jpg": {
+    "fine_label_id": 46,
+    "fine_label_name": "Arla-Ecological-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "KRAV-labeled sour cream made from fresh cream from Swedish organic Arlagårdar. Sour cream is a real classic that has its obvious place for both everyday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy consistency and is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "train\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_012.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_012.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Ecological-Sour-Cream"
+    ]
+  },
+  "test\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_002.jpg": {
+    "fine_label_id": 50,
+    "fine_label_name": "Alpro-Vanilla-Soyghurt",
+    "coarse_label_id": 25,
+    "coarse_label_name": "Soyghurt",
+    "description": "Soy based ghurt, used as yoghurt, with mild vanilla taste and and creamy texture.",
+    "image_path": "test\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_002.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_002.jpg",
+    "categories": [
+      "Soyghurt",
+      "Alpro-Vanilla-Soyghurt"
+    ]
+  },
+  "test\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_006.jpg": {
+    "fine_label_id": 50,
+    "fine_label_name": "Alpro-Vanilla-Soyghurt",
+    "coarse_label_id": 25,
+    "coarse_label_name": "Soyghurt",
+    "description": "Soy based ghurt, used as yoghurt, with mild vanilla taste and and creamy texture.",
+    "image_path": "test\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_006.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Soyghurt\\Alpro-Vanilla-Soyghurt\\Alpro-Vanilla-Soyghurt_006.jpg",
+    "categories": [
+      "Soyghurt",
+      "Alpro-Vanilla-Soyghurt"
+    ]
+  },
+  "test\\Fruit\\Plum\\Plum_005.jpg": {
+    "fine_label_id": 24,
+    "fine_label_name": "Plum",
+    "coarse_label_id": 15,
+    "coarse_label_name": "Plum",
+    "description": "Ripe plums have soft and juicy pulp with sweet taste. Suitable for being eaten naturally, but is also used for preserving and pastries.",
+    "image_path": "test\\Fruit\\Plum\\Plum_005.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Plum\\Plum_005.jpg",
+    "categories": [
+      "Plum",
+      "Plum"
+    ]
+  },
+  "test\\Fruit\\Plum\\Plum_015.jpg": {
+    "fine_label_id": 24,
+    "fine_label_name": "Plum",
+    "coarse_label_id": 15,
+    "coarse_label_name": "Plum",
+    "description": "Ripe plums have soft and juicy pulp with sweet taste. Suitable for being eaten naturally, but is also used for preserving and pastries.",
+    "image_path": "test\\Fruit\\Plum\\Plum_015.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Plum\\Plum_015.jpg",
+    "categories": [
+      "Plum",
+      "Plum"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_011.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_011.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_011.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Fruit\\Apple\\Golden-Delicious\\Golden-Delicious_037.jpg": {
+    "fine_label_id": 0,
+    "fine_label_name": "Golden-Delicious",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Golden Delicious has a white juicy pulp and a greenish yellow shell. The taste is mellow and sweet, making Golden Delicious suitable for desserts.",
+    "image_path": "train\\Fruit\\Apple\\Golden-Delicious\\Golden-Delicious_037.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Golden-Delicious\\Golden-Delicious_037.jpg",
+    "categories": [
+      "Apple",
+      "Golden-Delicious"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_017.jpg": {
+    "fine_label_id": 33,
+    "fine_label_name": "God-Morgon-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Red Grapefruit is a real vitamin kick - mellow, rich in taste and as refreshing as only red grapefruit can be.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_017.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_017.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Red-Grapefruit-Juice"
+    ]
+  },
+  "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_003.jpg": {
+    "fine_label_id": 57,
+    "fine_label_name": "Yoggi-Strawberry-Yoghurt",
+    "coarse_label_id": 27,
+    "coarse_label_name": "Yoghurt",
+    "description": "Lovely creamy yoghurt rich in fruit. It is made of natural ingredients with a mild, round taste of strawberries and vanilla. Yoggi original is a pleasure that saturates and gives energy whenever you want. The taste is completely natural and it is the fruit that gives the yoghurt the fine color. The yoghurt suits the whole family and can be enjoyed at breakfast time, as a quick snack or a simple dessert. The symbol of the blueish yellow milk can guarantees 100 percent Swedish milk.",
+    "image_path": "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_003.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_003.jpg",
+    "categories": [
+      "Yoghurt",
+      "Yoggi-Strawberry-Yoghurt"
+    ]
+  },
+  "train\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_013.jpg": {
+    "fine_label_id": 47,
+    "fine_label_name": "Arla-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "Sour cream made from fresh cream from Swedish Arlagårdar. Sour cream is a real classic that has its obvious place for both weekday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy texture. The product is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "train\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_013.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Sour-Cream\\Arla-Sour-Cream\\Arla-Sour-Cream_013.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Sour-Cream"
+    ]
+  },
+  "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_005.jpg": {
+    "fine_label_id": 57,
+    "fine_label_name": "Yoggi-Strawberry-Yoghurt",
+    "coarse_label_id": 27,
+    "coarse_label_name": "Yoghurt",
+    "description": "Lovely creamy yoghurt rich in fruit. It is made of natural ingredients with a mild, round taste of strawberries and vanilla. Yoggi original is a pleasure that saturates and gives energy whenever you want. The taste is completely natural and it is the fruit that gives the yoghurt the fine color. The yoghurt suits the whole family and can be enjoyed at breakfast time, as a quick snack or a simple dessert. The symbol of the blueish yellow milk can guarantees 100 percent Swedish milk.",
+    "image_path": "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_005.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_005.jpg",
+    "categories": [
+      "Yoghurt",
+      "Yoggi-Strawberry-Yoghurt"
+    ]
+  },
+  "train\\Fruit\\Apple\\Granny-Smith\\Granny-Smith_040.jpg": {
+    "fine_label_id": 1,
+    "fine_label_name": "Granny-Smith",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Granny Smith is a green apple with white, firm pulp and a clear acidity in the flavor.",
+    "image_path": "train\\Fruit\\Apple\\Granny-Smith\\Granny-Smith_040.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Granny-Smith\\Granny-Smith_040.jpg",
+    "categories": [
+      "Apple",
+      "Granny-Smith"
+    ]
+  },
+  "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_059.jpg": {
+    "fine_label_id": 2,
+    "fine_label_name": "Pink-Lady",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Pink Lady reminds of Royal Gala, though it is an even sweeter and crispier apple.",
+    "image_path": "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_059.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_059.jpg",
+    "categories": [
+      "Apple",
+      "Pink-Lady"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_011.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_011.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_011.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_010.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_010.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_010.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_005.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_005.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_005.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Fruit\\Apple\\Golden-Delicious\\Golden-Delicious_023.jpg": {
+    "fine_label_id": 0,
+    "fine_label_name": "Golden-Delicious",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Golden Delicious has a white juicy pulp and a greenish yellow shell. The taste is mellow and sweet, making Golden Delicious suitable for desserts.",
+    "image_path": "train\\Fruit\\Apple\\Golden-Delicious\\Golden-Delicious_023.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Golden-Delicious\\Golden-Delicious_023.jpg",
+    "categories": [
+      "Apple",
+      "Golden-Delicious"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_008.jpg": {
+    "fine_label_id": 33,
+    "fine_label_name": "God-Morgon-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Red Grapefruit is a real vitamin kick - mellow, rich in taste and as refreshing as only red grapefruit can be.",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_008.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Red-Grapefruit-Juice\\God-Morgon-Red-Grapefruit-Juice_008.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Red-Grapefruit-Juice"
+    ]
+  },
+  "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_016.jpg": {
+    "fine_label_id": 46,
+    "fine_label_name": "Arla-Ecological-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "KRAV-labeled sour cream made from fresh cream from Swedish organic Arlagårdar. Sour cream is a real classic that has its obvious place for both everyday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy consistency and is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_016.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_016.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Ecological-Sour-Cream"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_009.jpg": {
+    "fine_label_id": 32,
+    "fine_label_name": "God-Morgon-Orange-Red-Grapefruit-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_009.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Orange-Red-Grapefruit-Juice\\God-Morgon-Orange-Red-Grapefruit-Juice_009.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Red-Grapefruit-Juice"
+    ]
+  },
+  "train\\Fruit\\Plum\\Plum_001.jpg": {
+    "fine_label_id": 24,
+    "fine_label_name": "Plum",
+    "coarse_label_id": 15,
+    "coarse_label_name": "Plum",
+    "description": "Ripe plums have soft and juicy pulp with sweet taste. Suitable for being eaten naturally, but is also used for preserving and pastries.",
+    "image_path": "train\\Fruit\\Plum\\Plum_001.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Plum\\Plum_001.jpg",
+    "categories": [
+      "Plum",
+      "Plum"
+    ]
+  },
+  "test\\Packages\\Soyghurt\\Alpro-Blueberry-Soyghurt\\Alpro-Blueberry-Soyghurt_007.jpg": {
+    "fine_label_id": 49,
+    "fine_label_name": "Alpro-Blueberry-Soyghurt",
+    "coarse_label_id": 25,
+    "coarse_label_name": "Soyghurt",
+    "description": "Soy based ghurt, used as yoghurt, with mild blueberry taste and creamy texture.",
+    "image_path": "test\\Packages\\Soyghurt\\Alpro-Blueberry-Soyghurt\\Alpro-Blueberry-Soyghurt_007.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Soyghurt\\Alpro-Blueberry-Soyghurt\\Alpro-Blueberry-Soyghurt_007.jpg",
+    "categories": [
+      "Soyghurt",
+      "Alpro-Blueberry-Soyghurt"
+    ]
+  },
+  "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_021.jpg": {
+    "fine_label_id": 46,
+    "fine_label_name": "Arla-Ecological-Sour-Cream",
+    "coarse_label_id": 23,
+    "coarse_label_name": "Sour-Cream",
+    "description": "KRAV-labeled sour cream made from fresh cream from Swedish organic Arlagårdar. Sour cream is a real classic that has its obvious place for both everyday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy consistency and is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_021.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Sour-Cream\\Arla-Ecological-Sour-Cream\\Arla-Ecological-Sour-Cream_021.jpg",
+    "categories": [
+      "Sour-Cream",
+      "Arla-Ecological-Sour-Cream"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_015.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_015.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_015.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Yoghurt\\Arla-Mild-Vanilla-Yoghurt\\Arla-Mild-Vanilla-Yoghurt_004.jpg": {
+    "fine_label_id": 53,
+    "fine_label_name": "Arla-Mild-Vanilla-Yoghurt",
+    "coarse_label_id": 27,
+    "coarse_label_name": "Yoghurt",
+    "description": "Mild and smooth vanilla yoghurt made of Swedish milk from Arlagårdar. The texture is creamy and tender, the taste soft and round. The yoghurt fits well for breakfast and snacks for the whole family. Eat it as it is or with muesli, flakes, fruit and berries. Vanilla yoghurt is also a perfect base for smoothies. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "train\\Packages\\Yoghurt\\Arla-Mild-Vanilla-Yoghurt\\Arla-Mild-Vanilla-Yoghurt_004.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Yoghurt\\Arla-Mild-Vanilla-Yoghurt\\Arla-Mild-Vanilla-Yoghurt_004.jpg",
+    "categories": [
+      "Yoghurt",
+      "Arla-Mild-Vanilla-Yoghurt"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_028.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_028.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_028.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_007.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_007.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_001.jpg": {
+    "fine_label_id": 2,
+    "fine_label_name": "Pink-Lady",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Pink Lady reminds of Royal Gala, though it is an even sweeter and crispier apple.",
+    "image_path": "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_001.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Pink-Lady\\Pink-Lady_001.jpg",
+    "categories": [
+      "Apple",
+      "Pink-Lady"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_016.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_016.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_016.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_003.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_003.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_003.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "val\\Vegetables\\Aubergine\\Aubergine_002.jpg": {
+    "fine_label_id": 60,
+    "fine_label_name": "Aubergine",
+    "coarse_label_id": 29,
+    "coarse_label_name": "Aubergine",
+    "description": "Aubergine, or eggplant as it is also called, is usually dark violet. It has a shiny peel and is 15-20 cm long. The pulp is white. Aubergine is always eaten cooked. In addition to Moussaka, Aubergine fits well in pots and gratins.",
+    "image_path": "val\\Vegetables\\Aubergine\\Aubergine_002.jpg",
+    "image_type": "natural",
+    "path": "val\\Vegetables\\Aubergine\\Aubergine_002.jpg",
+    "categories": [
+      "Aubergine",
+      "Aubergine"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_008.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_008.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_008.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "val\\Fruit\\Passion-Fruit\\Passion-Fruit_004.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "val\\Fruit\\Passion-Fruit\\Passion-Fruit_004.jpg",
+    "image_type": "natural",
+    "path": "val\\Fruit\\Passion-Fruit\\Passion-Fruit_004.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "train\\Fruit\\Passion-Fruit\\Passion-Fruit_004.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_004.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_004.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_007.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_007.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_007.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Fruit\\Pear\\Conference\\Conference_043.jpg": {
+    "fine_label_id": 21,
+    "fine_label_name": "Conference",
+    "coarse_label_id": 13,
+    "coarse_label_name": "Pear",
+    "description": "Conference is a medium sized pear with long-tapered bottle like shape and a rounded base. To the color, the Conference pear is light greenish yellow with gold brown spots. Pears taste the most when they are really ripe. Suitable for desserts, cheese tray or to eat as it is.",
+    "image_path": "train\\Fruit\\Pear\\Conference\\Conference_043.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Pear\\Conference\\Conference_043.jpg",
+    "categories": [
+      "Pear",
+      "Conference"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_032.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_032.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_032.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_033.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_033.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_033.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_043.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_043.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_043.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_013.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_013.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_013.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_008.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_008.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_008.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Fruit\\Apple\\Royal-Gala\\Royal-Gala_007.jpg": {
+    "fine_label_id": 4,
+    "fine_label_name": "Royal-Gala",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Royal Gala is a crispy and very juicy apple, with yellow-white pulp. The peel is thin with a red yellow speckled color.",
+    "image_path": "train\\Fruit\\Apple\\Royal-Gala\\Royal-Gala_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Royal-Gala\\Royal-Gala_007.jpg",
+    "categories": [
+      "Apple",
+      "Royal-Gala"
+    ]
+  },
+  "train\\Fruit\\Apple\\Royal-Gala\\Royal-Gala_026.jpg": {
+    "fine_label_id": 4,
+    "fine_label_name": "Royal-Gala",
+    "coarse_label_id": 0,
+    "coarse_label_name": "Apple",
+    "description": "Royal Gala is a crispy and very juicy apple, with yellow-white pulp. The peel is thin with a red yellow speckled color.",
+    "image_path": "train\\Fruit\\Apple\\Royal-Gala\\Royal-Gala_026.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Apple\\Royal-Gala\\Royal-Gala_026.jpg",
+    "categories": [
+      "Apple",
+      "Royal-Gala"
+    ]
+  },
+  "train\\Fruit\\Pear\\Kaiser\\Kaiser_028.jpg": {
+    "fine_label_id": 22,
+    "fine_label_name": "Kaiser",
+    "coarse_label_id": 13,
+    "coarse_label_name": "Pear",
+    "description": "The Kaiser Pear is drip-shaped with matte, medium-thick, flaming yellow-brown or brownish shell. The yellowish white pulp is crispy, juicy and sweet, with some fresh acid. Kaiser pears match very well with dessert cheeses and wine, but it is also good to cook, as it retains its shape well.",
+    "image_path": "train\\Fruit\\Pear\\Kaiser\\Kaiser_028.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Pear\\Kaiser\\Kaiser_028.jpg",
+    "categories": [
+      "Pear",
+      "Kaiser"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_020.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_020.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_020.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_017.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_017.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_017.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "test\\Fruit\\Pear\\Kaiser\\Kaiser_027.jpg": {
+    "fine_label_id": 22,
+    "fine_label_name": "Kaiser",
+    "coarse_label_id": 13,
+    "coarse_label_name": "Pear",
+    "description": "The Kaiser Pear is drip-shaped with matte, medium-thick, flaming yellow-brown or brownish shell. The yellowish white pulp is crispy, juicy and sweet, with some fresh acid. Kaiser pears match very well with dessert cheeses and wine, but it is also good to cook, as it retains its shape well.",
+    "image_path": "test\\Fruit\\Pear\\Kaiser\\Kaiser_027.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Pear\\Kaiser\\Kaiser_027.jpg",
+    "categories": [
+      "Pear",
+      "Kaiser"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_045.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_045.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_045.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_012.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_012.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_012.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Fruit\\Passion-Fruit\\Passion-Fruit_027.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_027.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_027.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "train\\Vegetables\\Aubergine\\Aubergine_012.jpg": {
+    "fine_label_id": 60,
+    "fine_label_name": "Aubergine",
+    "coarse_label_id": 29,
+    "coarse_label_name": "Aubergine",
+    "description": "Aubergine, or eggplant as it is also called, is usually dark violet. It has a shiny peel and is 15-20 cm long. The pulp is white. Aubergine is always eaten cooked. In addition to Moussaka, Aubergine fits well in pots and gratins.",
+    "image_path": "train\\Vegetables\\Aubergine\\Aubergine_012.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Aubergine\\Aubergine_012.jpg",
+    "categories": [
+      "Aubergine",
+      "Aubergine"
+    ]
+  },
+  "train\\Fruit\\Pear\\Kaiser\\Kaiser_008.jpg": {
+    "fine_label_id": 22,
+    "fine_label_name": "Kaiser",
+    "coarse_label_id": 13,
+    "coarse_label_name": "Pear",
+    "description": "The Kaiser Pear is drip-shaped with matte, medium-thick, flaming yellow-brown or brownish shell. The yellowish white pulp is crispy, juicy and sweet, with some fresh acid. Kaiser pears match very well with dessert cheeses and wine, but it is also good to cook, as it retains its shape well.",
+    "image_path": "train\\Fruit\\Pear\\Kaiser\\Kaiser_008.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Pear\\Kaiser\\Kaiser_008.jpg",
+    "categories": [
+      "Pear",
+      "Kaiser"
+    ]
+  },
+  "train\\Fruit\\Pear\\Conference\\Conference_007.jpg": {
+    "fine_label_id": 21,
+    "fine_label_name": "Conference",
+    "coarse_label_id": 13,
+    "coarse_label_name": "Pear",
+    "description": "Conference is a medium sized pear with long-tapered bottle like shape and a rounded base. To the color, the Conference pear is light greenish yellow with gold brown spots. Pears taste the most when they are really ripe. Suitable for desserts, cheese tray or to eat as it is.",
+    "image_path": "train\\Fruit\\Pear\\Conference\\Conference_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Pear\\Conference\\Conference_007.jpg",
+    "categories": [
+      "Pear",
+      "Conference"
+    ]
+  },
+  "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_003.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_003.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_003.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "train\\Fruit\\Pear\\Kaiser\\Kaiser_013.jpg": {
+    "fine_label_id": 22,
+    "fine_label_name": "Kaiser",
+    "coarse_label_id": 13,
+    "coarse_label_name": "Pear",
+    "description": "The Kaiser Pear is drip-shaped with matte, medium-thick, flaming yellow-brown or brownish shell. The yellowish white pulp is crispy, juicy and sweet, with some fresh acid. Kaiser pears match very well with dessert cheeses and wine, but it is also good to cook, as it retains its shape well.",
+    "image_path": "train\\Fruit\\Pear\\Kaiser\\Kaiser_013.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Pear\\Kaiser\\Kaiser_013.jpg",
+    "categories": [
+      "Pear",
+      "Kaiser"
+    ]
+  },
+  "train\\Fruit\\Passion-Fruit\\Passion-Fruit_018.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_018.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_018.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "test\\Fruit\\Melon\\Cantaloupe\\Cantaloupe_037.jpg": {
+    "fine_label_id": 11,
+    "fine_label_name": "Cantaloupe",
+    "coarse_label_id": 7,
+    "coarse_label_name": "Melon",
+    "description": "The cantaloupe melon is a rather small and all round sugar melon, with a greenish yellow mesh patterned shell. The pulp is orange colored with juicy and sweet taste.",
+    "image_path": "test\\Fruit\\Melon\\Cantaloupe\\Cantaloupe_037.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Melon\\Cantaloupe\\Cantaloupe_037.jpg",
+    "categories": [
+      "Melon",
+      "Cantaloupe"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_009.jpg": {
+    "fine_label_id": 73,
+    "fine_label_name": "Floury-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Floury potatoes. Extra good for mashed potatoes and to press.",
+    "image_path": "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_009.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Floury-Potato\\Floury-Potato_009.jpg",
+    "categories": [
+      "Potato",
+      "Floury-Potato"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_019.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_019.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_019.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Fruit\\Kiwi\\Kiwi_030.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "train\\Fruit\\Kiwi\\Kiwi_030.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Kiwi\\Kiwi_030.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "train\\Vegetables\\Aubergine\\Aubergine_005.jpg": {
+    "fine_label_id": 60,
+    "fine_label_name": "Aubergine",
+    "coarse_label_id": 29,
+    "coarse_label_name": "Aubergine",
+    "description": "Aubergine, or eggplant as it is also called, is usually dark violet. It has a shiny peel and is 15-20 cm long. The pulp is white. Aubergine is always eaten cooked. In addition to Moussaka, Aubergine fits well in pots and gratins.",
+    "image_path": "train\\Vegetables\\Aubergine\\Aubergine_005.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Aubergine\\Aubergine_005.jpg",
+    "categories": [
+      "Aubergine",
+      "Aubergine"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_027.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_027.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_027.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_021.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_021.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_021.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Vegetables\\Carrots\\Carrots_002.jpg": {
+    "fine_label_id": 62,
+    "fine_label_name": "Carrots",
+    "coarse_label_id": 31,
+    "coarse_label_name": "Carrots",
+    "description": "The orange red color of the carrot comes from the high content of beta carotene, which in the body is converted into vitamin A. Tastefully, carrot is sweet, with a crunchy texture. Carrots can be eaten raw, and are also used in pots, gratins, soups and wok.",
+    "image_path": "train\\Vegetables\\Carrots\\Carrots_002.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Carrots\\Carrots_002.jpg",
+    "categories": [
+      "Carrots",
+      "Carrots"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_018.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_018.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_018.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_002.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_002.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_002.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "test\\Fruit\\Kiwi\\Kiwi_009.jpg": {
+    "fine_label_id": 7,
+    "fine_label_name": "Kiwi",
+    "coarse_label_id": 3,
+    "coarse_label_name": "Kiwi",
+    "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.",
+    "image_path": "test\\Fruit\\Kiwi\\Kiwi_009.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Kiwi\\Kiwi_009.jpg",
+    "categories": [
+      "Kiwi",
+      "Kiwi"
+    ]
+  },
+  "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_013.jpg": {
+    "fine_label_id": 75,
+    "fine_label_name": "Sweet-Potato",
+    "coarse_label_id": 39,
+    "coarse_label_name": "Potato",
+    "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.",
+    "image_path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_013.jpg",
+    "image_type": "natural",
+    "path": "test\\Vegetables\\Potato\\Sweet-Potato\\Sweet-Potato_013.jpg",
+    "categories": [
+      "Potato",
+      "Sweet-Potato"
+    ]
+  },
+  "train\\Vegetables\\Carrots\\Carrots_017.jpg": {
+    "fine_label_id": 62,
+    "fine_label_name": "Carrots",
+    "coarse_label_id": 31,
+    "coarse_label_name": "Carrots",
+    "description": "The orange red color of the carrot comes from the high content of beta carotene, which in the body is converted into vitamin A. Tastefully, carrot is sweet, with a crunchy texture. Carrots can be eaten raw, and are also used in pots, gratins, soups and wok.",
+    "image_path": "train\\Vegetables\\Carrots\\Carrots_017.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Carrots\\Carrots_017.jpg",
+    "categories": [
+      "Carrots",
+      "Carrots"
+    ]
+  },
+  "train\\Fruit\\Passion-Fruit\\Passion-Fruit_002.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_002.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_002.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "train\\Vegetables\\Carrots\\Carrots_012.jpg": {
+    "fine_label_id": 62,
+    "fine_label_name": "Carrots",
+    "coarse_label_id": 31,
+    "coarse_label_name": "Carrots",
+    "description": "The orange red color of the carrot comes from the high content of beta carotene, which in the body is converted into vitamin A. Tastefully, carrot is sweet, with a crunchy texture. Carrots can be eaten raw, and are also used in pots, gratins, soups and wok.",
+    "image_path": "train\\Vegetables\\Carrots\\Carrots_012.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Carrots\\Carrots_012.jpg",
+    "categories": [
+      "Carrots",
+      "Carrots"
+    ]
+  },
+  "train\\Vegetables\\Garlic\\Garlic_008.jpg": {
+    "fine_label_id": 64,
+    "fine_label_name": "Garlic",
+    "coarse_label_id": 33,
+    "coarse_label_name": "Garlic",
+    "description": "Garlic has unique flavor and smell, and is a good flavoring in pasta dishes, pots, mixes, etc.",
+    "image_path": "train\\Vegetables\\Garlic\\Garlic_008.jpg",
+    "image_type": "natural",
+    "path": "train\\Vegetables\\Garlic\\Garlic_008.jpg",
+    "categories": [
+      "Garlic",
+      "Garlic"
+    ]
+  },
+  "train\\Fruit\\Passion-Fruit\\Passion-Fruit_022.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_022.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_022.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "train\\Fruit\\Passion-Fruit\\Passion-Fruit_007.jpg": {
+    "fine_label_id": 18,
+    "fine_label_name": "Passion-Fruit",
+    "coarse_label_id": 11,
+    "coarse_label_name": "Passion-Fruit",
+    "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.",
+    "image_path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Passion-Fruit\\Passion-Fruit_007.jpg",
+    "categories": [
+      "Passion-Fruit",
+      "Passion-Fruit"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_023.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_023.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_023.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_006.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_006.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_006.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_009.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_009.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_009.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_001.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_001.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_001.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_017.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_017.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_017.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_016.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_016.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_016.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_018.jpg": {
+    "fine_label_id": 34,
+    "fine_label_name": "Tropicana-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_018.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Apple-Juice\\Tropicana-Apple-Juice_018.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_030.jpg": {
+    "fine_label_id": 29,
+    "fine_label_name": "Bravo-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_030.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Orange-Juice\\Bravo-Orange-Juice_030.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Orange-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_005.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_005.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_005.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_018.jpg": {
+    "fine_label_id": 38,
+    "fine_label_name": "Arla-Ecological-Medium-Fat-Milk",
+    "coarse_label_id": 20,
+    "coarse_label_name": "Milk",
+    "description": "Fresh skimmed Milk made from Swedish Milk from organic Arlagårdar. Skimmed milk has a delicious full flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100% Swedish milk. The new brown carton has 24 percent lower climate impact compared to the previous white carton.",
+    "image_path": "train\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_018.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_018.jpg",
+    "categories": [
+      "Milk",
+      "Arla-Ecological-Medium-Fat-Milk"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_007.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_007.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_003.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_003.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_003.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_024.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_024.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_024.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_007.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_007.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "test\\Packages\\Milk\\Arla-Lactose-Medium-Fat-Milk\\Arla-Lactose-Medium-Fat-Milk_025.jpg": {
+    "fine_label_id": 39,
+    "fine_label_name": "Arla-Lactose-Medium-Fat-Milk",
+    "coarse_label_id": 20,
+    "coarse_label_name": "Milk",
+    "description": "Lactose-free skimmed milk made from Swedish milk from Arlagårdar. The product is designed for adults and children with lactose intolerance and is therefore free from lactose. The skimmed milk has a delicious full-bodied milk flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.",
+    "image_path": "test\\Packages\\Milk\\Arla-Lactose-Medium-Fat-Milk\\Arla-Lactose-Medium-Fat-Milk_025.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Milk\\Arla-Lactose-Medium-Fat-Milk\\Arla-Lactose-Medium-Fat-Milk_025.jpg",
+    "categories": [
+      "Milk",
+      "Arla-Lactose-Medium-Fat-Milk"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_012.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_012.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_012.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_017.jpg": {
+    "fine_label_id": 31,
+    "fine_label_name": "God-Morgon-Orange-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!",
+    "image_path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_017.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\God-Morgon-Orange-Juice\\God-Morgon-Orange-Juice_017.jpg",
+    "categories": [
+      "Juice",
+      "God-Morgon-Orange-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_014.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_014.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_014.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Fruit\\Red-Grapefruit\\Red-Grapefruit_001.jpg": {
+    "fine_label_id": 26,
+    "fine_label_name": "Red-Grapefruit",
+    "coarse_label_id": 17,
+    "coarse_label_name": "Red-Grapefruit",
+    "description": "The red grapefruit has a red pulp and a slightly pink colored peel. The taste is characteristically bitter, but at the same time fresh and sour. The red grapefruit is sweeter than the blonde grapefruit.",
+    "image_path": "train\\Fruit\\Red-Grapefruit\\Red-Grapefruit_001.jpg",
+    "image_type": "natural",
+    "path": "train\\Fruit\\Red-Grapefruit\\Red-Grapefruit_001.jpg",
+    "categories": [
+      "Red-Grapefruit",
+      "Red-Grapefruit"
+    ]
+  },
+  "test\\Fruit\\Pear\\Kaiser\\Kaiser_020.jpg": {
+    "fine_label_id": 22,
+    "fine_label_name": "Kaiser",
+    "coarse_label_id": 13,
+    "coarse_label_name": "Pear",
+    "description": "The Kaiser Pear is drip-shaped with matte, medium-thick, flaming yellow-brown or brownish shell. The yellowish white pulp is crispy, juicy and sweet, with some fresh acid. Kaiser pears match very well with dessert cheeses and wine, but it is also good to cook, as it retains its shape well.",
+    "image_path": "test\\Fruit\\Pear\\Kaiser\\Kaiser_020.jpg",
+    "image_type": "natural",
+    "path": "test\\Fruit\\Pear\\Kaiser\\Kaiser_020.jpg",
+    "categories": [
+      "Pear",
+      "Kaiser"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_019.jpg": {
+    "fine_label_id": 35,
+    "fine_label_name": "Tropicana-Golden-Grapefruit",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Golden Grape is a ready to drink juice with pulp pressed on grapefruit. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_019.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Golden-Grapefruit\\Tropicana-Golden-Grapefruit_019.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Golden-Grapefruit"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_013.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_013.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_013.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_014.jpg": {
+    "fine_label_id": 37,
+    "fine_label_name": "Tropicana-Mandarin-Morning",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_014.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Mandarin-Morning\\Tropicana-Mandarin-Morning_014.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Mandarin-Morning"
+    ]
+  },
+  "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_004.jpg": {
+    "fine_label_id": 57,
+    "fine_label_name": "Yoggi-Strawberry-Yoghurt",
+    "coarse_label_id": 27,
+    "coarse_label_name": "Yoghurt",
+    "description": "Lovely creamy yoghurt rich in fruit. It is made of natural ingredients with a mild, round taste of strawberries and vanilla. Yoggi original is a pleasure that saturates and gives energy whenever you want. The taste is completely natural and it is the fruit that gives the yoghurt the fine color. The yoghurt suits the whole family and can be enjoyed at breakfast time, as a quick snack or a simple dessert. The symbol of the blueish yellow milk can guarantees 100 percent Swedish milk.",
+    "image_path": "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_004.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Yoghurt\\Yoggi-Strawberry-Yoghurt\\Yoggi-Strawberry-Yoghurt_004.jpg",
+    "categories": [
+      "Yoghurt",
+      "Yoggi-Strawberry-Yoghurt"
+    ]
+  },
+  "val\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_004.jpg": {
+    "fine_label_id": 38,
+    "fine_label_name": "Arla-Ecological-Medium-Fat-Milk",
+    "coarse_label_id": 20,
+    "coarse_label_name": "Milk",
+    "description": "Fresh skimmed Milk made from Swedish Milk from organic Arlagårdar. Skimmed milk has a delicious full flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100% Swedish milk. The new brown carton has 24 percent lower climate impact compared to the previous white carton.",
+    "image_path": "val\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_004.jpg",
+    "image_type": "natural",
+    "path": "val\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_004.jpg",
+    "categories": [
+      "Milk",
+      "Arla-Ecological-Medium-Fat-Milk"
+    ]
+  },
+  "train\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_007.jpg": {
+    "fine_label_id": 38,
+    "fine_label_name": "Arla-Ecological-Medium-Fat-Milk",
+    "coarse_label_id": 20,
+    "coarse_label_name": "Milk",
+    "description": "Fresh skimmed Milk made from Swedish Milk from organic Arlagårdar. Skimmed milk has a delicious full flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100% Swedish milk. The new brown carton has 24 percent lower climate impact compared to the previous white carton.",
+    "image_path": "train\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_007.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Milk\\Arla-Ecological-Medium-Fat-Milk\\Arla-Ecological-Medium-Fat-Milk_007.jpg",
+    "categories": [
+      "Milk",
+      "Arla-Ecological-Medium-Fat-Milk"
+    ]
+  },
+  "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_021.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_021.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_021.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_005.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_005.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_005.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  },
+  "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_023.jpg": {
+    "fine_label_id": 36,
+    "fine_label_name": "Tropicana-Juice-Smooth",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.",
+    "image_path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_023.jpg",
+    "image_type": "natural",
+    "path": "test\\Packages\\Juice\\Tropicana-Juice-Smooth\\Tropicana-Juice-Smooth_023.jpg",
+    "categories": [
+      "Juice",
+      "Tropicana-Juice-Smooth"
+    ]
+  },
+  "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_014.jpg": {
+    "fine_label_id": 28,
+    "fine_label_name": "Bravo-Apple-Juice",
+    "coarse_label_id": 19,
+    "coarse_label_name": "Juice",
+    "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.",
+    "image_path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_014.jpg",
+    "image_type": "natural",
+    "path": "train\\Packages\\Juice\\Bravo-Apple-Juice\\Bravo-Apple-Juice_014.jpg",
+    "categories": [
+      "Juice",
+      "Bravo-Apple-Juice"
+    ]
+  }
+}
