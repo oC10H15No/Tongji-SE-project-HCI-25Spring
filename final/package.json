@@ -1,0 +1,35 @@
+{
+  "name": "vue-mapbox-voice-control",
+  "version": "1.0.0",
+  "description": "Vue + Mapbox GL JS + Voice Recognition 3D Map Application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "http-server dist -p 8080"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-geocoder": "^5.0.3",
+    "@mediapipe/camera_utils": "^0.3.1675465747",
+    "@mediapipe/control_utils": "^0.6.1675465747",
+    "@mediapipe/drawing_utils": "^0.3.1675465747",
+    "@mediapipe/hands": "^0.4.1675469240",
+    "mapbox-gl": "^2.15.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "http-server": "^14.1.1",
+    "vite": "^4.4.5"
+  },
+  "keywords": [
+    "vue",
+    "mapbox",
+    "3d-map",
+    "voice-recognition",
+    "speech-api"
+  ],
+  "author": "HCI Student",
+  "license": "MIT"
+}
